@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Доска объявлений №1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">300X - Объявления Киева и области</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="fire">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="exit">Отсутствует интернет соединение. Включите интернет и повторите попытку!</string>
+    <string name="yes">Ок</string>
+    <string name="no">Выход</string>
+    <string name="save_data">Чтототото</string>
+</resources>

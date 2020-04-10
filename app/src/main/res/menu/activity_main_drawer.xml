@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/page_main"
+                android:icon="@drawable/icon_main"
+                android:title="Главная"/>
+        <item
+                android:id="@+id/page_add"
+                android:icon="@drawable/icon_add"
+                android:title="Добавить объявление"/>
+
+        <item
+                android:id="@+id/page_service"
+                android:icon="@drawable/icon_service"
+                android:title="Платные услуги"/>
+
+        <item
+                android:id="@+id/page_reclama"
+                android:icon="@drawable/icon_reclama"
+                android:title="Реклама на сайте"/>
+        <item
+                android:id="@+id/page_news"
+                android:icon="@drawable/icon_news"
+                android:title="Новости"/>
+        <item
+                android:id="@+id/page_contact"
+                android:icon="@drawable/icon_contact"
+                android:title="Контакты"/>
+        <item
+                android:id="@+id/page_about"
+                android:icon="@drawable/icon_about"
+                android:title="О нас"/>
+    </group>
+
+
+
+</menu>
