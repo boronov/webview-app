@@ -3,6 +3,7 @@ Simple "WebViewApp" for site 300x.UA
 # App Preview
 <img src="https://github.com/boronov/WebViewApp/blob/master/SCREENSHOTS/1.jpg"/>
 <img src="https://github.com/boronov/WebViewApp/blob/master/SCREENSHOTS/2.jpg"/>
+
 # License
 Copyright 2020 Boronov Faridun
 
