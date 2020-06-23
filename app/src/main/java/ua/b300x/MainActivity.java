@@ -1,4 +1,4 @@
-package ua.a300x;
+package ua.b300x;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         //========================================================================
 
 
-        load("https://300x.ua/");
+        load("https://300x.kiev.ua/");
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -135,19 +135,19 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         int id = item.getItemId();
 
         if (id == R.id.page_main) {
-            load("https://300x.ua/");
+            load("https://300x.kiev.ua/");
         } else if (id == R.id.page_service) {
-            load("https://300x.ua/services/");
+            load("https://300x.kiev.ua/Platnye-uslugi/");
         } else if (id == R.id.page_news) {
-            load("https://300x.ua/blog/");
+            load("https://300x.kiev.ua/articles/");
         } else if (id == R.id.page_contact) {
-            load("https://300x.ua/contact/");
+            load("https://300x.kiev.ua/mail/");
         } else if (id == R.id.page_about) {
-           //  load("https://300x.ua/");
+            load("https://300x.kiev.ua/O-nas/");
         } else if (id == R.id.page_add) {
-            load("https://300x.ua/item/add");
+            load("https://300x.kiev.ua/add/");
         } else if (id == R.id.page_reclama) {
-            load("https://300x.ua/adv.html");
+            load("https://300x.kiev.ua/");
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

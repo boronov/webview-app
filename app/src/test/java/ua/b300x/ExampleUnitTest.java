@@ -1,4 +1,4 @@
-package ua.a300x;
+package ua.b300x;
 
 import org.junit.Test;
 
